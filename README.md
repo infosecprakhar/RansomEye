@@ -201,4 +201,4 @@ Potential areas for future development:
 *   Expand the AI analysis capabilities (e.g., identify specific ransomware families, suggest mitigation).
 *   Add user authentication and a database to store analysis reports.
 *   Develop the "Settings" page.
-# RansomEye
+
