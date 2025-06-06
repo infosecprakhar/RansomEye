@@ -1,6 +1,6 @@
 # RansomEye - Ransomware Analysis Sandbox
 
-This is a Next.js application built with Firebase Studio, designed to act as a sandbox for analyzing ransomware behavior. It allows users to simulate ransomware execution, observe its effects on a mock system (file system, registry, network), and receive an AI-generated analysis report.
+This is a Next.js application, designed to act as a sandbox for analyzing ransomware behavior. It allows users to simulate ransomware execution, observe its effects on a mock system (file system, registry, network), and receive an AI-generated analysis report.
 
 ## Project Overview
 
@@ -201,3 +201,4 @@ Potential areas for future development:
 *   Expand the AI analysis capabilities (e.g., identify specific ransomware families, suggest mitigation).
 *   Add user authentication and a database to store analysis reports.
 *   Develop the "Settings" page.
+# RansomEye
